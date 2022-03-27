@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MohammadRashadAwad/Search-using-Wikipedia/static/css/main.e8d02a6a.css",
+    "main.js": "/MohammadRashadAwad/Search-using-Wikipedia/static/js/main.e56e4913.js",
+    "index.html": "/MohammadRashadAwad/Search-using-Wikipedia/index.html",
+    "main.e8d02a6a.css.map": "/MohammadRashadAwad/Search-using-Wikipedia/static/css/main.e8d02a6a.css.map",
+    "main.e56e4913.js.map": "/MohammadRashadAwad/Search-using-Wikipedia/static/js/main.e56e4913.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d02a6a.css",
+    "static/js/main.e56e4913.js"
+  ]
+}
